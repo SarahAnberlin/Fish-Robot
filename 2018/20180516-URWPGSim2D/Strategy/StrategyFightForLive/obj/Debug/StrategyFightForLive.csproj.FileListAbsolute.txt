@@ -1,0 +1,12 @@
+F:\资源\2D仿真\平台\20150503-URWPGSim2D-final\Strategy\StrategyFightForLive\bin\Debug\StrategyFightForLive.dll
+F:\资源\2D仿真\平台\20150503-URWPGSim2D-final\Strategy\StrategyFightForLive\bin\Debug\StrategyFightForLive.pdb
+F:\资源\2D仿真\平台\20150503-URWPGSim2D-final\Strategy\StrategyFightForLive\obj\Debug\ResolveAssemblyReference.cache
+F:\资源\2D仿真\平台\20150503-URWPGSim2D-final\Strategy\StrategyFightForLive\obj\Debug\StrategyFightForLive.dll
+F:\资源\2D仿真\平台\20150503-URWPGSim2D-final\Strategy\StrategyFightForLive\obj\Debug\StrategyFightForLive.pdb
+C:\2018\2018\20180516-URWPGSim2D\Strategy\StrategyFightForLive\bin\Debug\StrategyFightForLive.dll
+C:\2018\2018\20180516-URWPGSim2D\Strategy\StrategyFightForLive\bin\Debug\StrategyFightForLive.pdb
+C:\2018\2018\20180516-URWPGSim2D\Strategy\StrategyFightForLive\obj\Debug\StrategyFightForLive.csproj.CoreCompileInputs.cache
+C:\2018\2018\20180516-URWPGSim2D\Strategy\StrategyFightForLive\obj\Debug\StrategyFightForLive.csproj.CopyComplete
+C:\2018\2018\20180516-URWPGSim2D\Strategy\StrategyFightForLive\obj\Debug\StrategyFightForLive.dll
+C:\2018\2018\20180516-URWPGSim2D\Strategy\StrategyFightForLive\obj\Debug\StrategyFightForLive.pdb
+C:\2018\2018\20180516-URWPGSim2D\Strategy\StrategyFightForLive\obj\Debug\StrategyFightForLive.csprojAssemblyReference.cache

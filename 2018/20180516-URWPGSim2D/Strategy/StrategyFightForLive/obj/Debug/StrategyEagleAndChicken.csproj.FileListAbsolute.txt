@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\URWPGSim2D.20140423Src\URWPGSim2D.20141220Src\URWPGSim2D\Strategy\StrategyEagleAndChicken\bin\Debug\StrategyEagleAndChicken.dll
+C:\Users\Administrator\Desktop\URWPGSim2D.20140423Src\URWPGSim2D.20141220Src\URWPGSim2D\Strategy\StrategyEagleAndChicken\bin\Debug\StrategyEagleAndChicken.pdb
+C:\Users\Administrator\Desktop\URWPGSim2D.20140423Src\URWPGSim2D.20141220Src\URWPGSim2D\Strategy\StrategyEagleAndChicken\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\URWPGSim2D.20140423Src\URWPGSim2D.20141220Src\URWPGSim2D\Strategy\StrategyEagleAndChicken\obj\Debug\StrategyEagleAndChicken.dll
+C:\Users\Administrator\Desktop\URWPGSim2D.20140423Src\URWPGSim2D.20141220Src\URWPGSim2D\Strategy\StrategyEagleAndChicken\obj\Debug\StrategyEagleAndChicken.pdb
+C:\Users\Administrator\Desktop\URWPGSim2D.20140423Src\URWPGSim2D.20141221Src\URWPGSim2D\Strategy\StrategyEagleAndChicken\bin\Debug\StrategyEagleAndChicken.dll
+C:\Users\Administrator\Desktop\URWPGSim2D.20140423Src\URWPGSim2D.20141221Src\URWPGSim2D\Strategy\StrategyEagleAndChicken\bin\Debug\StrategyEagleAndChicken.pdb
+C:\Users\Administrator\Desktop\URWPGSim2D.20140423Src\URWPGSim2D.20141221Src\URWPGSim2D\Strategy\StrategyEagleAndChicken\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\URWPGSim2D.20140423Src\URWPGSim2D.20141221Src\URWPGSim2D\Strategy\StrategyEagleAndChicken\obj\Debug\StrategyEagleAndChicken.dll
+C:\Users\Administrator\Desktop\URWPGSim2D.20140423Src\URWPGSim2D.20141221Src\URWPGSim2D\Strategy\StrategyEagleAndChicken\obj\Debug\StrategyEagleAndChicken.pdb

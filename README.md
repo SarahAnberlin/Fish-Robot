@@ -1,4 +1,5 @@
 # Robot_Fish
-some C# code (win the sliver medal runner
-Ë®ÖĞ»úÆ÷ÈË´úÂë
-2016Éú´æÌôÕ½ÑÇ¾ü
+C#  
+win the sliver medal runner  
+æ°´ä¸­æœºå™¨äºº  
+2016ç”Ÿå­˜æŒ‘æˆ˜äºšå†›  

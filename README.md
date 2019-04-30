@@ -1,4 +1,3 @@
 # Robot_Fish
-C#  
-win the sliver medal runner  
+The second place of The underwater robot competition.
  

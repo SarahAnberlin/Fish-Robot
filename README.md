@@ -1,3 +1,3 @@
 # Robot_Fish
-The second place of The underwater robot competition.
+The second place of the 2017 underwater robot competition.
  

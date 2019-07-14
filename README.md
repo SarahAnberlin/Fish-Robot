@@ -10,9 +10,9 @@
 </p>
 
 ## Code description
-- The second place of the 2017 underwater robot competition.
+The second place of the 2017 underwater robot competition.  
 
 ## To user
-please send me your result of the competition to email.  
+Please send me your result of the competition to my email.  
 Thank You! Best wish! 
  
